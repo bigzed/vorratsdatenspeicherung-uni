@@ -76,6 +76,7 @@
 *.sagetex.sage
 *.sagetex.py
 *.sagetex.scmd
+main.pdf
 
 # sympy
 *.sout
